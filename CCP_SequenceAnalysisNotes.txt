@@ -1,0 +1,58 @@
+Military very easily moves into party jobs, easily moves into centrl or province. jobs.
+
+Very hard to move into military.
+
+Almost no one starts there careers as B8. B8 is a desireable place to end your career. It's a symbolic job.
+
+Y to B* easy, Y to A's harder, Y to A4 impossible
+
+From the data: ?????
+B1,B3,B6,B7 
+B2,B4,B5
+
+From the theory (via GDP):
+B3 (highest, best GDP) slight scheme
+B1
+B2
+B4
+B5
+B6
+B7
+
+
+
+Looks like people who were in any Bs were roughly as likely to get into As.
+
+Fairly difficult to get into A4 from B*, more easily from A1-3
+
+Only can get into B8 from A1 and A2, B8 from any other is impossible.
+
+B8 to anything should be nearly impossible.
+
+Questions:
+Are B1 and B3 great places for getting into A1
+
+Make substitution cost between A1 and A2 very cheap.
+
+A to B1-7 impossible.
+
+One dimensional matrix for addition or deletion.
+
+Expensive to delete B8, B's
+
+Make insertion costs for Bs high, deletion costs low.
+
+A1~A2
+A3~A4
+A3/A4 -> A2/A1 (more likely, low cost)
+A2/A1 -> A3/A4 (less likely, higher cost)
+A
+
+A3,4 to A1 higher than than A1 to A3,4
+
+Insertion of Y hard, deletion of Y easy (because you can go anywhere from Y, but can't easily go to Y). Same for Y.
+
+No C directly to A4
+No Ys ever in A4
+
+How 
